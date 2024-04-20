@@ -1,2 +1,2 @@
 # opencart.ocmod
-opencart plugin
+opencart payment gateway plugin
